@@ -1,4 +1,5 @@
 # 3D Graphics Engine  
+A cool way to render hexagonal prisms and cylinders.
 ## Features  
 - Different rendering modes
   - Wireframe
